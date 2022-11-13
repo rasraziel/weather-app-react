@@ -22,17 +22,17 @@ http://localhost:3000/?city=Frederiksberg
 
 http://localhost:3000/?city=Valby
 
-Or if you want to use the heroku deployment:
+Or if you want to use the Render deployment:
 
-https://tv-weather-react.herokuapp.com/?city=Frederiksberg
+https://weather-app-react-xaht.onrender.com/?city=Frederiksberg
 
-https://tv-weather-react.herokuapp.com/?city=Valby
+https://weather-app-react-xaht.onrender.com/?city=Valby
 
 If Javascript is disabled you will be redirected to the Node backend app automatically.
 
 It can be used as a widget with iframe. Just add the iframe tag to your html eg.
 
-<iframe src="https://tv-weather-react.herokuapp.com/?city=Copenhagen" width="450" height="450"></iframe>
+<iframe src="https://weather-app-react-xaht.onrender.com/?city=Copenhagen" width="450" height="450"></iframe>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
